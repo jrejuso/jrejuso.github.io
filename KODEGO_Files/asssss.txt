@@ -1,0 +1,6 @@
+Validate html with https://validator.w3.org/
+Apply semantic elements on your personal developer profile
+
+
+
+https://codepen.io/R-CoderLopez/pen/RwBoOxy
