@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Clicker+Script&display=swap');
 
 .body {
-    background-image: url(./design/background.jpg);
+    background-image: url(../design/background.jpg);
     background-size: cover;
     
     /* background-position: center; */
