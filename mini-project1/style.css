@@ -1,0 +1,58 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&display=swap');
+
+.body {
+    background-image: url(./design/background.jpg);
+    background-size: cover;
+    
+    /* background-position: center; */
+}
+
+
+.navbar ul{
+    /* float: right; */
+    font-size: 30px;
+    font-family: 'Noto Serif', serif;
+    color: white;
+    /* margin-right: 50px; */
+    /* text-shadow: deepskyblue 20px 20px 20px; */
+    /* justify-content: center; */
+}
+
+.text h1 {
+    text-align: center;
+    /* font-weight: bold; */
+    font-family: 'Clicker Script', cursive;
+    font-size: 70px;
+    color: black;
+    text-shadow: rgb(19, 198, 225) 6px 6px 6px;
+    /* margin-top: 50px; */
+    margin-top: 100px;
+
+}
+
+.card {
+    justify-content: center;
+    margin-top: 100px;
+    background: none;
+    border: hidden;
+    margin-right: 20px;
+}
+
+.col img{
+    max-height: 350px;
+    max-width: 300px;
+    justify-content: center;
+    border-radius: 20px;
+    margin-left: 80px;
+}
+
+.card-body {
+    text-align: center;
+}
+.btn {
+    margin-bottom: 50px;
+    margin-top: 100px%;
+    justify-content: end;
+    margin-left: 50px;
+}
