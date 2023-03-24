@@ -8,7 +8,7 @@
 }
 
 header{
-  background-image: url(./images/noon_windy.jpg);
+  background-image: url(.//images/noon_windy.jpg);
   height: 100vh;
   background-size: cover;
   background-position: center;
