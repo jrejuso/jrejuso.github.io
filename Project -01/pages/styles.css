@@ -10,13 +10,13 @@
 }
 
 .bg-img-1 {
-    background-image: url(/images/pexels-jetro-castro-8626607.jpg);
+    background-image: url(./images/pexels-jetro-castro-8626607.jpg);
 }
 .bg-img-2 {
-    background-image: url(/images/pexels-john-cahil-rom-3041867.jpg);
+    background-image: url(./images/pexels-john-cahil-rom-3041867.jpg);
 }
 .bg-img-3 {
-    background-image: url(/images/pexels-john-cahil-rom-3041872.jpg);
+    background-image: url(./images/pexels-john-cahil-rom-3041872.jpg);
 }
 
 .carousel-item {
